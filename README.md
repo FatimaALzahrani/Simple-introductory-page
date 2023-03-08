@@ -1,16 +1,3 @@
-# doctor_page
+# Simple introductory page
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![‫Flutter Demo - شخصي - Microsoft​ Edge‬ 3_8_2023 6_27_35 PM](https://user-images.githubusercontent.com/107775566/223758457-f668ae66-ce3f-42a7-8b46-130fa832cf4f.png)
